@@ -1,7 +1,7 @@
 Lab Project 0: ASCII Printing
 # Description:
 This demo code builds a program "asciidraw" that prints ASCII art.
-
+# this is a test
 # Anticipated learing outcomes
 This playful assignment is primarily intended to enable students to achieve and demonstrate competencies 
 related to 
