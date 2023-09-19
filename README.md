@@ -87,5 +87,5 @@ Please observe the following standard C coding practices:
  - ability to understand and modify C programs with separate compilation and include files that include declarations for global variables and functions. 
  - bitfield manipulation
  - able to use make & understand and modify Makefiles 
- - abile to understand and modify simple programs written in C
+- abile to understand and modify simple programs written in C
 
